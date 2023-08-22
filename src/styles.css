@@ -46,3 +46,8 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+small {
+  display: block;
+  text-align: center;
+  line-height: 0;
+}
